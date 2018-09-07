@@ -7,3 +7,5 @@ http://rr2.dens.tv/s/s28/index2.m3u8
 https://cmt-tech.cdn.warpcache.net/teb002/55D6D-channel8/1.m3u8
 #EXTINF:0 tvg-logo="" group-title="SunnahTV",RODJA TV
 http://rr2.dens.tv/s/s14/index2.m3u8
+#EXTINF:0 tvg-logo="" group-title="SunnahTV",SURAU TV
+rtsp://119.235.249.60:1935/surautv/live
